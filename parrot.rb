@@ -6,3 +6,5 @@ def parrot(p="Squawk")
   puts p
   return p
 end
+
+parrot("pretty bird")
