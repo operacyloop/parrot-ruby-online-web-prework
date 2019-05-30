@@ -2,7 +2,7 @@
 # returns the phrase
 <<<<<<< HEAD
 
-def parrot = "Squawk")
-  puts phrase
-  return phrase
+def parrot(p="Squawk")
+  puts p
+  return p
 end
